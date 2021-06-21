@@ -12,12 +12,12 @@ In this project, you will make use of Python to explore data related to bike sha
 
 ### Files used
 1. The following file contains necessary code:
-  * bikeshare.py
+   * bikeshare.py
 2. The following files are not uploaded to remote repo by using .gitignore:
-  * chicago.csv
-  * new_york_city.csv
-  * washington.csv
+   * chicago.csv
+   * new_york_city.csv
+   * washington.csv
 
 ### Credits
 [Pandas documentation](https://pandas.pydata.org/docs/)
-
+[Numpy documentation](https://numpy.org/doc/)
