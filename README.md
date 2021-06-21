@@ -19,5 +19,6 @@ In this project, you will make use of Python to explore data related to bike sha
    * washington.csv
 
 ### Credits
-[Pandas documentation](https://pandas.pydata.org/docs/)
-[Numpy documentation](https://numpy.org/doc/)
+* [Pandas documentation](https://pandas.pydata.org/docs/)
+* [Numpy documentation](https://numpy.org/doc/)
+* [Stackoverflow](https://stackoverflow.com/)
