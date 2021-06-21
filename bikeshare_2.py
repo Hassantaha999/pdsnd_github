@@ -186,7 +186,7 @@ def raw_data(df):
         while True:
             print(df.iloc[count: count+5])
             count += 5
-            ask = input('Next 5 raws?')
+            ask = input('Would you like to see the next 5 raws?')
             if ask.lower() != 'yes':
                 break
                 
